@@ -1,0 +1,46 @@
+h1{
+	color:#eb4d4b;
+	text-decoration:underline;
+}
+
+.semantic{
+	background: #f5f6fa;
+}
+.semantic li{
+	color:#2f3640;
+	font-size:30px;
+}
+
+.nonsemantic{
+	background: #f5f6fa;
+}
+.nonsemantic li{
+	color:#2f3640;
+	font-size:30px;
+
+}
+
+.copy{
+	background: #f5f6fa;
+	font-size:30px;
+	color:#2f3640;
+}
+.css{
+	background: #f5f6fa;
+}
+.extarnal{
+	color:#eb4d4b;
+}
+.bg-img{
+	background-image:url(../images/mosque-4196145__340.jpg);
+	height:400px;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
+	background-attachment:fixed;
+}
+p{
+	background: #f5f6fa;
+	font-size:30px;
+	color:#2f3640;
+}
